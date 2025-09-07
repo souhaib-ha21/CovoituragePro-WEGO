@@ -1,2 +1,11 @@
-# CovoituragePro-WEGO
-WEGO est une plateforme  développée en PHP avec architecture MVC, utilisant MySQL pour la gestion de la base de données et Bootstrap  pour un design responsive et moderne.    Technologies utilisées :  Backend : PHP ( MVC)  Frontend : HTML, CSS, Bootstrap, JS (optionnel pour interactivité)  Base de données : MySQL  Gestion de version : Git + GitHub
+WEGO est une plateforme développée en PHP selon une architecture MVC, permettant une meilleure séparation des couches (modèle, vue, contrôleur) et une maintenance facilitée. Elle utilise MySQL pour la gestion et le stockage des données, et Bootstrap pour offrir une interface moderne, responsive et adaptée aux différents appareils.
+
+🔹 Technologies utilisées
+
+Backend : PHP (Architecture MVC)
+
+Frontend : HTML, CSS, Bootstrap (+ JavaScript pour l’interactivité si nécessaire)
+
+Base de données : MySQL
+
+Gestion de version : Git & GitHub
